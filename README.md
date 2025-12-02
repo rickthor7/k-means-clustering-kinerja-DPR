@@ -1,5 +1,5 @@
-jgn lupa import library
+jgn lupa import library<br>
 pip install pandas numpy scikit-learn matplotlib
 
-run
+run<br>
 python analisis_kmeans_dpr.py
